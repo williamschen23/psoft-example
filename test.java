@@ -9,6 +9,8 @@ public class test {
 
     public static void main(String[] args){
         int[] test = new int[]{1, 2, 3, 4, 5};
+        int[] test2 = new int[]{1, 2, 3, 4, 6};
         System.out.println(sum(test));
+        System.out.println(sum(test2));
     }
 }
