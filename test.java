@@ -12,9 +12,11 @@ public class test {
         int[] test2 = new int[]{1, 2, 3, 4, 6};
         int[] test3 = new int[]{1, 2, 3, 4, 7};
         int[] test4 = new int[]{1, 2, 3, 4, 8};
+        int[] test5 = new int[]{1, 2, 3, 4, 9};
         System.out.println(sum(test));
         System.out.println(sum(test2));
         System.out.println(sum(test3));
         System.out.println(sum(test4));
+        System.out.println(sum(test5));
     }
 }
